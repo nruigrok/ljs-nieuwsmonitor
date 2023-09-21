@@ -1,6 +1,6 @@
 {
   "commit": "648057bceafd2eff3c4be52fb54beb11222cf21a",
-  "generated": "2023-09-21T17:03:44.487Z",
+  "generated": "2023-09-21T17:06:44.560Z",
   "metadata": [
     {
       "__outstatic": {
@@ -111,12 +111,12 @@
     {
       "__outstatic": {
         "commit": "648057bceafd2eff3c4be52fb54beb11222cf21a",
-        "hash": "3231003647",
+        "hash": "4196802032",
         "path": "outstatic/content/pages/contact.md"
       },
       "author": {
         "name": "Nel Ruigrok",
-        "picture": "/images/ruigrok-c4OD.jpg"
+        "picture": "/images/ruigrok-k1Mj.jpg"
       },
       "collection": "pages",
       "coverImage": "",
