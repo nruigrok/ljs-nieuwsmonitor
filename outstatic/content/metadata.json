@@ -1,6 +1,6 @@
 {
-  "commit": "eae660087d503f279c54943bea00da3d8947e28c",
-  "generated": "2023-09-21T18:52:13.252Z",
+  "commit": "26cdd7817c658f42bd9330b61ece93b1f48ef4e3",
+  "generated": "2023-09-21T18:52:37.620Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "contact",
       "status": "published",
       "title": "Contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "83e1ab1d227e222fc170180c2275b7de41ebd26e",
-        "hash": "181360540",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "/images/hero-image.png",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
     },
     {
       "__outstatic": {
@@ -125,6 +107,24 @@
       "slug": "media-politiek",
       "status": "published",
       "title": "Media & Politiek"
+    },
+    {
+      "__outstatic": {
+        "commit": "26cdd7817c658f42bd9330b61ece93b1f48ef4e3",
+        "hash": "1461333995",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "/images/hero-image.png",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
