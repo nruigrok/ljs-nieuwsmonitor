@@ -1,6 +1,6 @@
 {
-  "commit": "dd3e0ae17a646a482ed8ee88127444218e6e84b9",
-  "generated": "2023-09-21T16:59:59.569Z",
+  "commit": "e875d4b04ed6bc4377a8424aa31d38f21d81d5ec",
+  "generated": "2023-09-21T17:03:02.106Z",
   "metadata": [
     {
       "__outstatic": {
@@ -57,24 +57,6 @@
     },
     {
       "__outstatic": {
-        "commit": "88e9abd0f4aafd7d2852dac52c8cac6be013b485",
-        "hash": "1968627535",
-        "path": "outstatic/content/pages/projecten.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Projecten",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "projecten",
-      "status": "published",
-      "title": "Projecten"
-    },
-    {
-      "__outstatic": {
         "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
         "hash": "1076515129",
         "path": "outstatic/content/projecten/bearbnb.md"
@@ -125,6 +107,24 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Media & Politiek"
+    },
+    {
+      "__outstatic": {
+        "commit": "e875d4b04ed6bc4377a8424aa31d38f21d81d5ec",
+        "hash": "4126420912",
+        "path": "outstatic/content/pages/projecten.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Projecten",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "projecten",
+      "status": "published",
+      "title": "Projecten"
     }
   ]
 }
