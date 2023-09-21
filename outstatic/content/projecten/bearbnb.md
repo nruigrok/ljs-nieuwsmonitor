@@ -1,11 +1,15 @@
 ---
-title: ' 🧸 Bearbnb'
+title: 'Cursus R'
 status: 'published'
-description: 'Amazing rental locations for your teddy bear.'
-coverImage: '/images/bearbnb.png'
-publishedAt: '2022-03-17T05:35:07.322Z'
+description: ''
+coverImage: '/images/r_logo.svg-c1OD.png'
 author:
-  name: Andre Vitorio
+  name: 'Nel Ruigrok'
+slug: 'bearbnb'
+publishedAt: '2022-03-17T05:35:07.322Z'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Hier zullen de documenten komen te staan voor de R-cursus die ik zal verzorgen aan de Universiteit van Leiden in december 2023.
+
+Voor meer informatie, zie deze [publicatie](https://cssbook.net/) over textanalysis using R and Python.
+
