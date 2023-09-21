@@ -10,7 +10,7 @@ coverImage: '/images/logo-AzOT.png'
 publishedAt: '2023-09-21T17:55:40.000Z'
 ---
 
-Een groot deel van ons onderzoek is gericht op de relatie tussen media en politiek. Met de komende Tweede Kamerverkiezingen van 22 november a.s. zullen media wederom een belangrijke rol spelen, al zullen zij die zelf vooral bagateliseren.
+Een groot deel van ons onderzoek is gericht op de relatie tussen media en politiek. Met de komende Tweede Kamerverkiezingen van 22 november a.s. zullen media wederom een belangrijke rol spelen, al zullen zij die zelf vooral bagateliseren. Zie bijvoorbeeld het [item](https://op1npo.nl/2023/09/07/jeroen-pauw-en-rick-nieman-over-het-ideale-tv-debat/) op Op1 van 7 september 2023.
 
 ## Opiniestuk
 
