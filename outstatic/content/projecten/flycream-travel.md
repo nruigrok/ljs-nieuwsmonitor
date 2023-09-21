@@ -1,5 +1,5 @@
 ---
-title: 'Flycream Travel'
+title: 'Media & Politiek'
 status: 'published'
 author:
   name: 'Andre Vitorio'
@@ -7,11 +7,16 @@ author:
 slug: 'flycream-travel'
 description: 'One more day, one more joy. I feel blessed.'
 coverImage: '/images/flycream-travel.png'
-publishedAt: '2022-09-14T17:55:40.452Z'
+publishedAt: '2023-09-21T17:55:40.000Z'
 ---
 
-Everything's good with me, my fam and my dreams are coming true. One at a time, one at a time.
+Een groot deel van ons onderzoek is gericht op de relatie tussen media en politiek. Met de komende Tweede Kamerverkiezingen van 22 november a.s. zullen media wederom een belangrijke rol spelen, al zullen zij die zelf vooral bagateliseren.
 
-## I love it!
+## Opiniestuk
 
-Nothing feels unachievable, when I see you smile and look to the horizon. We can make it, life's short but it's enough time to be happy. Love it.
+Zie hier het opiniestuk over de relatie tussen media en politiek dat op zaterdag 23 september 2023 is gepubliceerd in Trouw.
+
+## Medialogica 
+
+Medialogica speelt een belangrijke rol in de relatie tussen media en politiek. Tijdens de verkiezingen van 2012 werd de campagne gedomineerd door deze medialogica. Zie het onderzoek dat wij toentertijd hebben uitgevoerd.
+

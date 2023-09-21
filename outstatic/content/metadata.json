@@ -1,6 +1,6 @@
 {
-  "commit": "057fc0e3305520d11ce2f5ffc9dde9b5ed2702e1",
-  "generated": "Thu, 21 Sep 2023 16:40:12 GMT",
+  "commit": "34c87268f20465c239e732219d1f5d9f509031ae",
+  "generated": "2023-09-21T16:55:19.599Z",
   "metadata": [
     {
       "__outstatic": {
@@ -74,24 +74,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b22b0f4f3d38a659cbab9b89ac2b7394f2446de4",
-        "hash": "425893791",
-        "path": "outstatic/content/projecten/flycream-travel.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "projecten",
-      "coverImage": "/images/flycream-travel.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "flycream-travel",
-      "status": "published",
-      "title": "Flycream Travel"
-    },
-    {
-      "__outstatic": {
         "commit": "88e9abd0f4aafd7d2852dac52c8cac6be013b485",
         "hash": "1968627535",
         "path": "outstatic/content/pages/projecten.md"
@@ -125,6 +107,24 @@
       "slug": "over",
       "status": "published",
       "title": "Over"
+    },
+    {
+      "__outstatic": {
+        "commit": "34c87268f20465c239e732219d1f5d9f509031ae",
+        "hash": "3497417494",
+        "path": "outstatic/content/projecten/flycream-travel.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "projecten",
+      "coverImage": "/images/flycream-travel.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "flycream-travel",
+      "status": "published",
+      "title": "Media & Politiek"
     }
   ]
 }
