@@ -1,7 +1,25 @@
 {
-  "commit": "648057bceafd2eff3c4be52fb54beb11222cf21a",
-  "generated": "2023-09-21T17:07:24.381Z",
+  "commit": "fa6775878f0ea5e32c71fd104eb0eba01708e57f",
+  "generated": "Thu, 21 Sep 2023 17:07:51 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "819385fa7d790b8f9b9117649bdf6c1134c7c2ef",
+        "hash": "3316301127",
+        "path": "outstatic/content/pages/contact.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": "/images/ruigrok-Y0Mj.jpg"
+      },
+      "collection": "pages",
+      "coverImage": "/images/logo-M2MT.png",
+      "description": "Neem contact op",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "contact",
+      "status": "published",
+      "title": "Contact"
+    },
     {
       "__outstatic": {
         "commit": "83e1ab1d227e222fc170180c2275b7de41ebd26e",
@@ -39,20 +57,21 @@
     },
     {
       "__outstatic": {
-        "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
-        "hash": "1076515129",
-        "path": "outstatic/content/projecten/bearbnb.md"
+        "commit": "a4a4d5e8f40dc1dadfe3002d164e1858dc3a1612",
+        "hash": "3086284051",
+        "path": "outstatic/content/projecten/flycream-travel.md"
       },
       "author": {
-        "name": "Andre Vitorio"
+        "name": "Nel Ruigrok",
+        "picture": "/images/ruigrok-AxMT.jpg"
       },
       "collection": "projecten",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Amazing rental locations for your teddy bear.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "bearbnb",
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "flycream-travel",
       "status": "published",
-      "title": " 🧸 Bearbnb"
+      "title": "Media & Politiek"
     },
     {
       "__outstatic": {
@@ -74,25 +93,24 @@
     },
     {
       "__outstatic": {
-        "commit": "dd3e0ae17a646a482ed8ee88127444218e6e84b9",
-        "hash": "3086284051",
-        "path": "outstatic/content/projecten/flycream-travel.md"
+        "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
+        "hash": "1076515129",
+        "path": "outstatic/content/projecten/bearbnb.md"
       },
       "author": {
-        "name": "Nel Ruigrok",
-        "picture": "/images/ruigrok-AxMT.jpg"
+        "name": "Andre Vitorio"
       },
       "collection": "projecten",
-      "coverImage": "/images/logo-AzOT.png",
-      "description": "",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "flycream-travel",
+      "coverImage": "/images/bearbnb.png",
+      "description": "Amazing rental locations for your teddy bear.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "bearbnb",
       "status": "published",
-      "title": "Media & Politiek"
+      "title": " 🧸 Bearbnb"
     },
     {
       "__outstatic": {
-        "commit": "e875d4b04ed6bc4377a8424aa31d38f21d81d5ec",
+        "commit": "ff8ec294507255479d89257232460a6497c937a2",
         "hash": "4126420912",
         "path": "outstatic/content/pages/projecten.md"
       },
@@ -107,24 +125,6 @@
       "slug": "projecten",
       "status": "published",
       "title": "Projecten"
-    },
-    {
-      "__outstatic": {
-        "commit": "648057bceafd2eff3c4be52fb54beb11222cf21a",
-        "hash": "3316301127",
-        "path": "outstatic/content/pages/contact.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": "/images/ruigrok-Y0Mj.jpg"
-      },
-      "collection": "pages",
-      "coverImage": "/images/logo-M2MT.png",
-      "description": "Neem contact op",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "contact",
-      "status": "published",
-      "title": "Contact"
     }
   ]
 }
