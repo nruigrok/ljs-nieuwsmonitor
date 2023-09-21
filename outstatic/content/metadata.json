@@ -1,6 +1,6 @@
 {
-  "commit": "fa6775878f0ea5e32c71fd104eb0eba01708e57f",
-  "generated": "Thu, 21 Sep 2023 17:07:51 GMT",
+  "commit": "d296f9db12847123328157eb45310e02b38c7317",
+  "generated": "2023-09-21T17:42:03.866Z",
   "metadata": [
     {
       "__outstatic": {
@@ -75,24 +75,6 @@
     },
     {
       "__outstatic": {
-        "commit": "cf67a6721bd7de51516635155711f1e6b9d8a58e",
-        "hash": "3643921737",
-        "path": "outstatic/content/pages/over.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Over LJS",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "over",
-      "status": "published",
-      "title": "Over"
-    },
-    {
-      "__outstatic": {
         "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
         "hash": "1076515129",
         "path": "outstatic/content/projecten/bearbnb.md"
@@ -125,6 +107,24 @@
       "slug": "projecten",
       "status": "published",
       "title": "Projecten"
+    },
+    {
+      "__outstatic": {
+        "commit": "d296f9db12847123328157eb45310e02b38c7317",
+        "hash": "590177857",
+        "path": "outstatic/content/pages/over.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Over LJS",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "over",
+      "status": "published",
+      "title": "Over"
     }
   ]
 }

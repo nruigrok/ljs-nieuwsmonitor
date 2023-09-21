@@ -1,15 +1,16 @@
 ---
-title: "Over"
-status: "published"
+title: 'Over'
+status: 'published'
 author:
-  name: "Nel Ruigrok"
-  picture: ""
-slug: "over"
-description: "Over LJS"
-coverImage: ""
-publishedAt: "2022-03-17T05:35:07.322Z"
+  name: 'Nel Ruigrok'
+  picture: ''
+slug: 'over'
+description: 'Over LJS'
+coverImage: ''
+publishedAt: '2023-09-21T04:35:07.000Z'
 ---
 
 ## Wie zijn wij
 
-Verhaaltje...
+Verhaaltje…
+
