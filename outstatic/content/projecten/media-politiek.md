@@ -18,5 +18,5 @@ Zie hier het opiniestuk over de relatie tussen media en politiek dat op zaterdag
 
 ## Medialogica
 
-Medialogica speelt een belangrijke rol in de relatie tussen media en politiek. Tijdens de verkiezingen van 2012 werd de campagne gedomineerd door deze medialogica. Zie het onderzoek dat wij toentertijd hebben uitgevoerd.
+Medialogica speelt een belangrijke rol in de relatie tussen media en politiek. Tijdens de verkiezingen van 2012 werd de campagne gedomineerd door deze medialogica. Zie [het onderzoek](/uploads/2017_verkiezingen.pdf) dat wij toentertijd hebben uitgevoerd.
 

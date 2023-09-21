@@ -1,6 +1,6 @@
 {
-  "commit": "85da9e2364b4963299c01af3e081d5751865659e",
-  "generated": "Thu, 21 Sep 2023 18:54:12 GMT",
+  "commit": "2e8a1252b6256b61e861d5c56fc20f0ce2b2838d",
+  "generated": "2023-09-21T19:34:52.621Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "contact",
       "status": "published",
       "title": "Contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "18a73827e1587544a175feed24f6d8cd9fab8f34",
-        "hash": "1920680064",
-        "path": "outstatic/content/projecten/media-politiek.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "projecten",
-      "coverImage": "/images/logo-AzOT.png",
-      "description": "",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "media-politiek",
-      "status": "published",
-      "title": "Media & Politiek"
     },
     {
       "__outstatic": {
@@ -125,6 +107,24 @@
       "slug": "over",
       "status": "published",
       "title": "Over"
+    },
+    {
+      "__outstatic": {
+        "commit": "2e8a1252b6256b61e861d5c56fc20f0ce2b2838d",
+        "hash": "1319471027",
+        "path": "outstatic/content/projecten/media-politiek.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "projecten",
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "media-politiek",
+      "status": "published",
+      "title": "Media & Politiek"
     }
   ]
 }
