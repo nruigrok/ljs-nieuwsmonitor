@@ -1,6 +1,6 @@
 {
-  "commit": "635acb13f161bb51ab4a63667a94626eb7cb8aa0",
-  "generated": "2023-09-21T20:02:02.612Z",
+  "commit": "519fa2706f5143e7880ea022334620856a1e313a",
+  "generated": "2023-09-21T20:04:44.834Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "3314cfb4230f1ad1c2b9da55cabaa61692c5dc90",
-        "hash": "2399627418",
-        "path": "outstatic/content/pages/over.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Over LJS",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "over",
-      "status": "published",
-      "title": "Over"
     },
     {
       "__outstatic": {
@@ -108,6 +90,24 @@
       "slug": "bearbnb",
       "status": "published",
       "title": "Cursus R"
+    },
+    {
+      "__outstatic": {
+        "commit": "519fa2706f5143e7880ea022334620856a1e313a",
+        "hash": "2304778665",
+        "path": "outstatic/content/pages/over.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Over LJS",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "over",
+      "status": "published",
+      "title": "Over"
     }
   ]
 }
