@@ -3,10 +3,10 @@ title: 'Contact'
 status: 'published'
 author:
   name: 'Nel Ruigrok'
-  picture: '/images/ruigrok-A4Nj.jpg'
+  picture: '/images/ruigrok-Y0Mj.jpg'
 slug: 'contact'
 description: 'Neem contact op'
-coverImage: ''
+coverImage: '/images/logo-M2MT.png'
 publishedAt: '2023-09-21T04:35:07.000Z'
 ---
 
