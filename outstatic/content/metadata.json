@@ -1,25 +1,7 @@
 {
-  "commit": "e875d4b04ed6bc4377a8424aa31d38f21d81d5ec",
-  "generated": "2023-09-21T17:03:02.106Z",
+  "commit": "648057bceafd2eff3c4be52fb54beb11222cf21a",
+  "generated": "2023-09-21T17:03:44.487Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "e559624efc63cf08dcb5f99a574723ec02ce0ae9",
-        "hash": "4250290251",
-        "path": "outstatic/content/pages/contact.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Neem contact op",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "contact",
-      "status": "published",
-      "title": "Contact"
-    },
     {
       "__outstatic": {
         "commit": "83e1ab1d227e222fc170180c2275b7de41ebd26e",
@@ -125,6 +107,24 @@
       "slug": "projecten",
       "status": "published",
       "title": "Projecten"
+    },
+    {
+      "__outstatic": {
+        "commit": "648057bceafd2eff3c4be52fb54beb11222cf21a",
+        "hash": "3231003647",
+        "path": "outstatic/content/pages/contact.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": "/images/ruigrok-c4OD.jpg"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Neem contact op",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "contact",
+      "status": "published",
+      "title": "Contact"
     }
   ]
 }
