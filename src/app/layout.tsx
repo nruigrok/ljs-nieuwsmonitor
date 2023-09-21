@@ -14,14 +14,6 @@ export const metadata: Metadata = {
     title: "LJS Nieuwsmonitor",
     description: "Onderzoeksbureau van Nel Ruigrok en Wouter van Atteveldt.",
     url: absoluteUrl("/"),
-    //siteName: "Next.js",
-    // images: [
-    //   {
-    //     url: absoluteUrl("/images/og-image.png"),
-    //     width: 1800,
-    //     height: 1600,
-    //   },
-    // ],
     locale: "nl_NL",
     type: "website",
   },

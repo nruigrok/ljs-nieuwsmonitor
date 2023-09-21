@@ -130,6 +130,6 @@ async function getData({ params }: Params) {
 }
 
 export async function generateStaticParams() {
-  const posts = getDocumentSlugs("projects");
+  const posts = getDocumentSlugs("projecten");
   return posts.map((slug) => ({ slug }));
 }
