@@ -1,6 +1,6 @@
 {
-  "commit": "6ee546da01789d58d80bc84cf3cb0207618ffe55",
-  "generated": "2023-09-21T18:41:40.897Z",
+  "commit": "eae660087d503f279c54943bea00da3d8947e28c",
+  "generated": "2023-09-21T18:52:13.252Z",
   "metadata": [
     {
       "__outstatic": {
@@ -57,24 +57,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a4a4d5e8f40dc1dadfe3002d164e1858dc3a1612",
-        "hash": "3086284051",
-        "path": "outstatic/content/projecten/flycream-travel.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": "/images/ruigrok-AxMT.jpg"
-      },
-      "collection": "projecten",
-      "coverImage": "/images/logo-AzOT.png",
-      "description": "",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "flycream-travel",
-      "status": "published",
-      "title": "Media & Politiek"
-    },
-    {
-      "__outstatic": {
         "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
         "hash": "1076515129",
         "path": "outstatic/content/projecten/bearbnb.md"
@@ -125,6 +107,24 @@
       "slug": "over",
       "status": "published",
       "title": "Over"
+    },
+    {
+      "__outstatic": {
+        "commit": "eae660087d503f279c54943bea00da3d8947e28c",
+        "hash": "1920680064",
+        "path": "outstatic/content/projecten/media-politiek.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "projecten",
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "media-politiek",
+      "status": "published",
+      "title": "Media & Politiek"
     }
   ]
 }
