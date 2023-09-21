@@ -1,6 +1,6 @@
 {
   "commit": "648057bceafd2eff3c4be52fb54beb11222cf21a",
-  "generated": "2023-09-21T17:06:44.560Z",
+  "generated": "2023-09-21T17:07:05.624Z",
   "metadata": [
     {
       "__outstatic": {
@@ -111,17 +111,17 @@
     {
       "__outstatic": {
         "commit": "648057bceafd2eff3c4be52fb54beb11222cf21a",
-        "hash": "4196802032",
+        "hash": "3036569094",
         "path": "outstatic/content/pages/contact.md"
       },
       "author": {
         "name": "Nel Ruigrok",
-        "picture": "/images/ruigrok-k1Mj.jpg"
+        "picture": "/images/ruigrok-A4Nj.jpg"
       },
       "collection": "pages",
       "coverImage": "",
       "description": "Neem contact op",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
       "slug": "contact",
       "status": "published",
       "title": "Contact"
