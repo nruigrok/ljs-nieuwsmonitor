@@ -1,6 +1,6 @@
 {
-  "commit": "bf887a32c06e920a3694c53f7a55b1520cb11464",
-  "generated": "Thu, 21 Sep 2023 16:57:16 GMT",
+  "commit": "dd3e0ae17a646a482ed8ee88127444218e6e84b9",
+  "generated": "2023-09-21T16:59:59.569Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "2d5ecd534e11298570913d839b351578ed78df17",
-        "hash": "3497417494",
-        "path": "outstatic/content/projecten/flycream-travel.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "projecten",
-      "coverImage": "/images/flycream-travel.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "flycream-travel",
-      "status": "published",
-      "title": "Media & Politiek"
     },
     {
       "__outstatic": {
@@ -125,6 +107,24 @@
       "slug": "over",
       "status": "published",
       "title": "Over"
+    },
+    {
+      "__outstatic": {
+        "commit": "dd3e0ae17a646a482ed8ee88127444218e6e84b9",
+        "hash": "3086284051",
+        "path": "outstatic/content/projecten/flycream-travel.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": "/images/ruigrok-AxMT.jpg"
+      },
+      "collection": "projecten",
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "flycream-travel",
+      "status": "published",
+      "title": "Media & Politiek"
     }
   ]
 }
