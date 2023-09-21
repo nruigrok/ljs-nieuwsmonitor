@@ -7,7 +7,7 @@ author:
 slug: 'home'
 description: 'This is my blog.'
 coverImage: '/images/hero-image.png'
-publishedAt: '2022-03-17T05:35:07.322Z'
+publishedAt: '2023-09-21T04:35:07.000Z'
 ---
 
 ## Welkom!

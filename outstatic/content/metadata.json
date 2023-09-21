@@ -1,6 +1,6 @@
 {
   "commit": "26cdd7817c658f42bd9330b61ece93b1f48ef4e3",
-  "generated": "2023-09-21T18:52:37.620Z",
+  "generated": "2023-09-21T18:52:49.908Z",
   "metadata": [
     {
       "__outstatic": {
@@ -111,7 +111,7 @@
     {
       "__outstatic": {
         "commit": "26cdd7817c658f42bd9330b61ece93b1f48ef4e3",
-        "hash": "1461333995",
+        "hash": "1854555307",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
@@ -121,7 +121,7 @@
       "collection": "pages",
       "coverImage": "/images/hero-image.png",
       "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
       "slug": "home",
       "status": "published",
       "title": "Home"
