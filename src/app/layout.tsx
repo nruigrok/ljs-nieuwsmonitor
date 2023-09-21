@@ -1,42 +1,47 @@
-import { absoluteUrl } from '@/lib/utils'
-import '../styles/index.css'
-import { Metadata } from 'next'
+import { absoluteUrl } from "@/lib/utils";
+import "./globals.css";
+import { Metadata } from "next";
+import Navbar from "@/components/Navbar";
 
 export const metadata: Metadata = {
   title: {
-    default: 'Outstatic',
-    template: '%s | Outstatic'
+    default: "LJS Nieuwsmonitor",
+    template: "%s | LJS",
   },
-  description: 'A blog starter built with Outstatic.',
+  description:
+    "LJS Nieuwsmonitor - Onderzoeksbureau van Nel Ruigrok en Wouter van Atteveldt",
   openGraph: {
-    title: 'Outstatic - A Static Site CMS for Next.js',
-    description: 'A blog starter built with Outstatic.',
-    url: absoluteUrl('/'),
-    siteName: 'Next.js',
-    images: [
-      {
-        url: absoluteUrl('/images/og-image.png'),
-        width: 1800,
-        height: 1600
-      }
-    ],
-    locale: 'en_US',
-    type: 'website'
+    title: "LJS Nieuwsmonitor",
+    description: "Onderzoeksbureau van Nel Ruigrok en Wouter van Atteveldt.",
+    url: absoluteUrl("/"),
+    //siteName: "Next.js",
+    // images: [
+    //   {
+    //     url: absoluteUrl("/images/og-image.png"),
+    //     width: 1800,
+    //     height: 1600,
+    //   },
+    // ],
+    locale: "nl_NL",
+    type: "website",
   },
   icons: {
-    icon: [{ url: '/favicon/favicon-32x32.png' }],
-    apple: [{ url: '/favicon/apple-touch-icon.png' }]
-  }
-}
+    icon: [{ url: "/favicon/favicon-32x32.png" }],
+    apple: [{ url: "/favicon/apple-touch-icon.png" }],
+  },
+};
 
 export default function RootLayout({
-  children
+  children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="relative min-h-screen">
+        <Navbar />
+        {children}
+      </body>
     </html>
-  )
+  );
 }
