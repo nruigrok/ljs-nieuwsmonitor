@@ -1,6 +1,6 @@
 {
   "commit": "913b27a59546a020d6819a293047a7ee13a2c752",
-  "generated": "2023-09-21T20:06:28.794Z",
+  "generated": "2023-09-21T20:16:42.649Z",
   "metadata": [
     {
       "__outstatic": {
@@ -94,7 +94,7 @@
     {
       "__outstatic": {
         "commit": "913b27a59546a020d6819a293047a7ee13a2c752",
-        "hash": "1088845445",
+        "hash": "1918308124",
         "path": "outstatic/content/projecten/media-politiek.md"
       },
       "author": {
@@ -103,7 +103,7 @@
       },
       "collection": "projecten",
       "coverImage": "/images/logo-AzOT.png",
-      "description": "",
+      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
       "publishedAt": "2023-09-21T17:55:40.000Z",
       "slug": "media-politiek",
       "status": "published",

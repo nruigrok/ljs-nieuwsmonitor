@@ -5,7 +5,7 @@ author:
   name: 'Nel Ruigrok'
   picture: ''
 slug: 'media-politiek'
-description: ''
+description: 'De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.'
 coverImage: '/images/logo-AzOT.png'
 publishedAt: '2023-09-21T17:55:40.000Z'
 ---
