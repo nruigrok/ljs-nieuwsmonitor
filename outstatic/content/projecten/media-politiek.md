@@ -20,3 +20,7 @@ Zie hier het opiniestuk over de relatie tussen media en politiek dat op zaterdag
 
 Medialogica speelt een belangrijke rol in de relatie tussen media en politiek. Tijdens de verkiezingen van 2012 werd de campagne gedomineerd door deze medialogica. Zie [het onderzoek](/uploads/2017_verkiezingen.pdf) dat wij toentertijd hebben uitgevoerd.
 
+## Parlementaire enquetecommissie fraudebeleid en dienstverlening
+
+Op woensdag 6 september 2023 werden Willemijn Roozendaal en Wouter van Atteveldt gehoord door de commissie over een onderzoek dat wij hebben uitgevoerd. Zie hier het [verhoor](https://debatgemist.tweedekamer.nl/debatten/parlementaire-enqu%C3%AAtecommissie-fraudebeleid-en-dienstverlening-%E2%80%93-openbaar-verhoor-de-heer).
+
