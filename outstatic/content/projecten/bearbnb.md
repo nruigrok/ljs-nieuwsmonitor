@@ -1,7 +1,7 @@
 ---
 title: 'Cursus R'
 status: 'published'
-description: ''
+description: '"R: The data whisperer that turns numbers into insights!"'
 coverImage: '/images/r_logo.svg-c1OD.png'
 author:
   name: 'Nel Ruigrok'

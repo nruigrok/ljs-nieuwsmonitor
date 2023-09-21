@@ -1,6 +1,6 @@
 {
-  "commit": "913b27a59546a020d6819a293047a7ee13a2c752",
-  "generated": "2023-09-21T20:16:42.649Z",
+  "commit": "b56a069958b63d07d13b1613672acfaccee01fae",
+  "generated": "2023-09-21T20:19:15.987Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,23 +58,6 @@
     },
     {
       "__outstatic": {
-        "commit": "635acb13f161bb51ab4a63667a94626eb7cb8aa0",
-        "hash": "2149054620",
-        "path": "outstatic/content/projecten/bearbnb.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok"
-      },
-      "collection": "projecten",
-      "coverImage": "/images/r_logo.svg-c1OD.png",
-      "description": "",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": "Cursus R"
-    },
-    {
-      "__outstatic": {
         "commit": "519fa2706f5143e7880ea022334620856a1e313a",
         "hash": "2304778665",
         "path": "outstatic/content/pages/over.md"
@@ -108,6 +91,23 @@
       "slug": "media-politiek",
       "status": "published",
       "title": "Media & Politiek"
+    },
+    {
+      "__outstatic": {
+        "commit": "b56a069958b63d07d13b1613672acfaccee01fae",
+        "hash": "2243759349",
+        "path": "outstatic/content/projecten/bearbnb.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok"
+      },
+      "collection": "projecten",
+      "coverImage": "/images/r_logo.svg-c1OD.png",
+      "description": "\"R: The data whisperer that turns numbers into insights!\"",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "bearbnb",
+      "status": "published",
+      "title": "Cursus R"
     }
   ]
 }
