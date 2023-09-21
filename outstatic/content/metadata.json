@@ -1,7 +1,25 @@
 {
-  "commit": "26cdd7817c658f42bd9330b61ece93b1f48ef4e3",
-  "generated": "2023-09-21T18:53:42.248Z",
+  "commit": "85da9e2364b4963299c01af3e081d5751865659e",
+  "generated": "Thu, 21 Sep 2023 18:54:04 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "89557e77f789294224d3cbb63889685206878182",
+        "hash": "1497716472",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "/images/hero-image.png",
+      "description": "This is my blog.",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
     {
       "__outstatic": {
         "commit": "819385fa7d790b8f9b9117649bdf6c1134c7c2ef",
@@ -22,37 +40,39 @@
     },
     {
       "__outstatic": {
-        "commit": "aa1f387e5c66347e675bed0862b070d8946c95f4",
-        "hash": "1055690014",
-        "path": "outstatic/content/projecten/couple-pizza.md"
+        "commit": "3314cfb4230f1ad1c2b9da55cabaa61692c5dc90",
+        "hash": "2399627418",
+        "path": "outstatic/content/pages/over.md"
       },
       "author": {
-        "name": "Bob Marley"
+        "name": "Nel Ruigrok",
+        "picture": ""
       },
-      "collection": "projecten",
-      "coverImage": "/images/couple-pizza.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-16T05:35:07.322Z",
-      "slug": "couple-pizza",
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Over LJS",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "over",
       "status": "published",
-      "title": "Couple Pizza"
+      "title": "Over"
     },
     {
       "__outstatic": {
-        "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
-        "hash": "1076515129",
-        "path": "outstatic/content/projecten/bearbnb.md"
+        "commit": "18a73827e1587544a175feed24f6d8cd9fab8f34",
+        "hash": "1920680064",
+        "path": "outstatic/content/projecten/media-politiek.md"
       },
       "author": {
-        "name": "Andre Vitorio"
+        "name": "Nel Ruigrok",
+        "picture": ""
       },
       "collection": "projecten",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Amazing rental locations for your teddy bear.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "bearbnb",
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "media-politiek",
       "status": "published",
-      "title": " 🧸 Bearbnb"
+      "title": "Media & Politiek"
     },
     {
       "__outstatic": {
@@ -74,57 +94,37 @@
     },
     {
       "__outstatic": {
-        "commit": "6ee546da01789d58d80bc84cf3cb0207618ffe55",
-        "hash": "2399627418",
-        "path": "outstatic/content/pages/over.md"
+        "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
+        "hash": "1076515129",
+        "path": "outstatic/content/projecten/bearbnb.md"
       },
       "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Over LJS",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "over",
-      "status": "published",
-      "title": "Over"
-    },
-    {
-      "__outstatic": {
-        "commit": "eae660087d503f279c54943bea00da3d8947e28c",
-        "hash": "1920680064",
-        "path": "outstatic/content/projecten/media-politiek.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
+        "name": "Andre Vitorio"
       },
       "collection": "projecten",
-      "coverImage": "/images/logo-AzOT.png",
-      "description": "",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "media-politiek",
+      "coverImage": "/images/bearbnb.png",
+      "description": "Amazing rental locations for your teddy bear.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "bearbnb",
       "status": "published",
-      "title": "Media & Politiek"
+      "title": " 🧸 Bearbnb"
     },
     {
       "__outstatic": {
-        "commit": "26cdd7817c658f42bd9330b61ece93b1f48ef4e3",
-        "hash": "1497716472",
-        "path": "outstatic/content/pages/home.md"
+        "commit": "aa1f387e5c66347e675bed0862b070d8946c95f4",
+        "hash": "1055690014",
+        "path": "outstatic/content/projecten/couple-pizza.md"
       },
       "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
+        "name": "Bob Marley"
       },
-      "collection": "pages",
-      "coverImage": "/images/hero-image.png",
-      "description": "This is my blog.",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "home",
+      "collection": "projecten",
+      "coverImage": "/images/couple-pizza.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-16T05:35:07.322Z",
+      "slug": "couple-pizza",
       "status": "published",
-      "title": "Home"
+      "title": "Couple Pizza"
     }
   ]
 }
