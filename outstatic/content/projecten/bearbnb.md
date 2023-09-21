@@ -6,7 +6,7 @@ coverImage: '/images/r_logo.svg-c1OD.png'
 author:
   name: 'Nel Ruigrok'
 slug: 'bearbnb'
-publishedAt: '2022-03-17T05:35:07.322Z'
+publishedAt: '2023-09-21T04:35:07.000Z'
 ---
 
 Hier zullen de documenten komen te staan voor de R-cursus die ik zal verzorgen aan de Universiteit van Leiden in december 2023.
