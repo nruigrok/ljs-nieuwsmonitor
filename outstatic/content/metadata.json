@@ -1,6 +1,6 @@
 {
-  "commit": "b56a069958b63d07d13b1613672acfaccee01fae",
-  "generated": "2023-09-21T20:19:25.820Z",
+  "commit": "c21b55b2dee7079a26b3dcac1c38191122a80a37",
+  "generated": "Thu, 21 Sep 2023 20:21:21 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -40,25 +40,7 @@
     },
     {
       "__outstatic": {
-        "commit": "ff8ec294507255479d89257232460a6497c937a2",
-        "hash": "4126420912",
-        "path": "outstatic/content/pages/projecten.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Projecten",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "projecten",
-      "status": "published",
-      "title": "Projecten"
-    },
-    {
-      "__outstatic": {
-        "commit": "519fa2706f5143e7880ea022334620856a1e313a",
+        "commit": "d58ca416153b4e6dca915c2ceba6d3ae0ebf5a81",
         "hash": "2304778665",
         "path": "outstatic/content/pages/over.md"
       },
@@ -76,7 +58,7 @@
     },
     {
       "__outstatic": {
-        "commit": "913b27a59546a020d6819a293047a7ee13a2c752",
+        "commit": "9c9baee7eae057e1ad9021bed16dbb998c06b6a1",
         "hash": "1918308124",
         "path": "outstatic/content/projecten/media-politiek.md"
       },
@@ -94,7 +76,7 @@
     },
     {
       "__outstatic": {
-        "commit": "b56a069958b63d07d13b1613672acfaccee01fae",
+        "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
         "hash": "1079839898",
         "path": "outstatic/content/projecten/bearbnb.md"
       },
@@ -108,6 +90,24 @@
       "slug": "bearbnb",
       "status": "published",
       "title": "Cursus R"
+    },
+    {
+      "__outstatic": {
+        "commit": "ff8ec294507255479d89257232460a6497c937a2",
+        "hash": "4126420912",
+        "path": "outstatic/content/pages/projecten.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Projecten",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "projecten",
+      "status": "published",
+      "title": "Projecten"
     }
   ]
 }
