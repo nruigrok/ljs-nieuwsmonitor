@@ -1,48 +1,12 @@
 {
-  "commit": "4b8ca15309d4a1e235ba3f30a95acb6fe267baa6",
-  "generated": "Mon, 06 Feb 2023 00:55:33 GMT",
+  "commit": "057fc0e3305520d11ce2f5ffc9dde9b5ed2702e1",
+  "generated": "Thu, 21 Sep 2023 16:40:12 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
-        "hash": "217348983",
-        "path": "/outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "/images/hero-image.png",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256b",
-        "hash": "217348983",
-        "path": "/outstatic/content/pages/over.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Over LJS",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "over",
-      "status": "published",
-      "title": "Over"
-    },
-    {
-      "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256b",
-        "hash": "217348983",
-        "path": "/outstatic/content/pages/contact.md"
+        "commit": "e559624efc63cf08dcb5f99a574723ec02ce0ae9",
+        "hash": "4250290251",
+        "path": "outstatic/content/pages/contact.md"
       },
       "author": {
         "name": "Nel Ruigrok",
@@ -58,83 +22,27 @@
     },
     {
       "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256b",
-        "hash": "217348983",
-        "path": "/outstatic/content/pages/projecten.md"
+        "commit": "83e1ab1d227e222fc170180c2275b7de41ebd26e",
+        "hash": "181360540",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
         "name": "Nel Ruigrok",
         "picture": ""
       },
       "collection": "pages",
-      "coverImage": "",
-      "description": "Projecten",
+      "coverImage": "/images/hero-image.png",
+      "description": "This is my blog.",
       "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "projecten",
+      "slug": "home",
       "status": "published",
-      "title": "Projecten"
-    },
-    {
-      "__outstatic": {
-        "commit": "bf4993b965319da4cb9de4a3810fb4af12bdebd6",
-        "hash": "2596208214",
-        "path": "/outstatic/content/posts/how-to-create-an-outstatic-blog.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/jupiter-spaceship.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-an-outstatic-blog",
-      "status": "published",
-      "title": "Learn how to create your blog with Outstatic",
-      "tags": [
-        { "label": "NextJs", "value": "nextJs" },
-        { "label": "GitHub", "value": "gitHub" },
-        { "label": "Outstatic", "value": "outstatic" }
-      ]
-    },
-    {
-      "__outstatic": {
-        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
-        "hash": "3707858083",
-        "path": "/outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "title": "If you want to make the wrong decision, ask everyone"
-    },
-    {
-      "__outstatic": {
-        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
-        "hash": "4086614036",
-        "path": "/outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "title": "Nothing is wrong. Everything is perfect"
+      "title": "Home"
     },
     {
       "__outstatic": {
         "commit": "aa1f387e5c66347e675bed0862b070d8946c95f4",
         "hash": "1055690014",
-        "path": "/outstatic/content/projecten/couple-pizza.md"
+        "path": "outstatic/content/projecten/couple-pizza.md"
       },
       "author": {
         "name": "Bob Marley"
@@ -151,7 +59,7 @@
       "__outstatic": {
         "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
         "hash": "1076515129",
-        "path": "/outstatic/content/projecten/bearbnb.md"
+        "path": "outstatic/content/projecten/bearbnb.md"
       },
       "author": {
         "name": "Andre Vitorio"
@@ -168,7 +76,7 @@
       "__outstatic": {
         "commit": "b22b0f4f3d38a659cbab9b89ac2b7394f2446de4",
         "hash": "425893791",
-        "path": "/outstatic/content/projecten/flycream-travel.md"
+        "path": "outstatic/content/projecten/flycream-travel.md"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -181,6 +89,42 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
+    },
+    {
+      "__outstatic": {
+        "commit": "88e9abd0f4aafd7d2852dac52c8cac6be013b485",
+        "hash": "1968627535",
+        "path": "outstatic/content/pages/projecten.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Projecten",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "projecten",
+      "status": "published",
+      "title": "Projecten"
+    },
+    {
+      "__outstatic": {
+        "commit": "cf67a6721bd7de51516635155711f1e6b9d8a58e",
+        "hash": "3643921737",
+        "path": "outstatic/content/pages/over.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Over LJS",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "over",
+      "status": "published",
+      "title": "Over"
     }
   ]
 }
