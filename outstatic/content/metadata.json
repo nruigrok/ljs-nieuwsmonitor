@@ -1,7 +1,25 @@
 {
-  "commit": "91e76f376886508abe0f3160e028ddfd7aaac310",
-  "generated": "2023-10-31T14:18:40.113Z",
+  "commit": "bb8a4c17446e40a896dbb2a1f4ca758c9b7954b7",
+  "generated": "Tue, 31 Oct 2023 14:18:55 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "89557e77f789294224d3cbb63889685206878182",
+        "hash": "1497716472",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "/images/hero-image.png",
+      "description": "This is my blog.",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
     {
       "__outstatic": {
         "commit": "819385fa7d790b8f9b9117649bdf6c1134c7c2ef",
@@ -40,56 +58,21 @@
     },
     {
       "__outstatic": {
-        "commit": "c67011bff076515a3901a56125a2249c9f66b010",
-        "hash": "3983552511",
-        "path": "outstatic/content/projecten/media-politiek.md"
+        "commit": "9342db9a97d6d8e5bf202a3ce908392239ebf0af",
+        "hash": "1333393595",
+        "path": "outstatic/content/projecten/talkshows.md"
       },
       "author": {
         "name": "Nel Ruigrok",
         "picture": ""
       },
       "collection": "projecten",
-      "coverImage": "/images/logo-AzOT.png",
-      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "media-politiek",
-      "status": "published",
-      "title": "Media & Politiek"
-    },
-    {
-      "__outstatic": {
-        "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
-        "hash": "1079839898",
-        "path": "outstatic/content/projecten/bearbnb.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok"
-      },
-      "collection": "projecten",
-      "coverImage": "/images/r_logo.svg-c1OD.png",
-      "description": "\"R: The data whisperer that turns numbers into insights!\"",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": "Cursus R"
-    },
-    {
-      "__outstatic": {
-        "commit": "89557e77f789294224d3cbb63889685206878182",
-        "hash": "1497716472",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "/images/hero-image.png",
-      "description": "This is my blog.",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
+      "coverImage": "/images/talkshows-k4Mj.png",
+      "description": "Al decennialang spelen de talkshows een belangrijke rol in Nederland. Barend & Van Dorp wordt gezien als de eerste succesvolle talkshow. Vele shows volgden, zowel op de publieke omroep als bij de commerciele omroepen. Sinds 2015 doen we onderzoek naar verschillende talkshows en hun invloed op het publieke debat. ",
+      "publishedAt": "2023-10-31T14:03:28.187Z",
+      "slug": "talkshows",
+      "status": "draft",
+      "title": "Talkshows"
     },
     {
       "__outstatic": {
@@ -111,21 +94,38 @@
     },
     {
       "__outstatic": {
-        "commit": "91e76f376886508abe0f3160e028ddfd7aaac310",
-        "hash": "1333393595",
-        "path": "outstatic/content/projecten/talkshows.md"
+        "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
+        "hash": "1079839898",
+        "path": "outstatic/content/projecten/bearbnb.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok"
+      },
+      "collection": "projecten",
+      "coverImage": "/images/r_logo.svg-c1OD.png",
+      "description": "\"R: The data whisperer that turns numbers into insights!\"",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "bearbnb",
+      "status": "published",
+      "title": "Cursus R"
+    },
+    {
+      "__outstatic": {
+        "commit": "c67011bff076515a3901a56125a2249c9f66b010",
+        "hash": "3983552511",
+        "path": "outstatic/content/projecten/media-politiek.md"
       },
       "author": {
         "name": "Nel Ruigrok",
         "picture": ""
       },
       "collection": "projecten",
-      "coverImage": "/images/talkshows-k4Mj.png",
-      "description": "Al decennialang spelen de talkshows een belangrijke rol in Nederland. Barend & Van Dorp wordt gezien als de eerste succesvolle talkshow. Vele shows volgden, zowel op de publieke omroep als bij de commerciele omroepen. Sinds 2015 doen we onderzoek naar verschillende talkshows en hun invloed op het publieke debat. ",
-      "publishedAt": "2023-10-31T14:03:28.187Z",
-      "slug": "talkshows",
-      "status": "draft",
-      "title": "Talkshows"
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "media-politiek",
+      "status": "published",
+      "title": "Media & Politiek"
     }
   ]
 }
