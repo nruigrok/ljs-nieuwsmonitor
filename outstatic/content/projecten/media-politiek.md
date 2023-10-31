@@ -24,11 +24,11 @@ Zie hier het [opiniestuk](https://www.trouw.nl/opinie/waar-komt-dat-gevoel-in-he
 
 ## Verkiezingen 2017
 
-Na de Brexit en de verkiezingen van Trump in de Verenigde Staten waren alle internationale ogen gericht op Nederland waar op 15 maart 2017 parlementsverkiezingen zijn gehouden. De Nederlandse verkiezing als graadmeter om te zien of het populisme ook greep zou krijgen op Europa. Van een populistische opmars bleek geen sprake na de verkiezingen. Sterker nog, het land lijkt meer dan ooit verdeeld te zijn met in totaal 13 partijen die zitting nemen in de Tweede Kamer en een grootste partij die iets meer dan 20% van de bevolking vertegenwoordigt. Zie hier het onderzoek naar de rol van de media.
+Na de Brexit en de verkiezingen van Trump in de Verenigde Staten waren alle internationale ogen gericht op Nederland waar op 15 maart 2017 parlementsverkiezingen zijn gehouden. De Nederlandse verkiezing als graadmeter om te zien of het populisme ook greep zou krijgen op Europa. Van een populistische opmars bleek geen sprake na de verkiezingen. Sterker nog, het land lijkt meer dan ooit verdeeld te zijn met in totaal 13 partijen die zitting nemen in de Tweede Kamer en een grootste partij die iets meer dan 20% van de bevolking vertegenwoordigt. Zie hier het onderzoek naar de rol van de [media](https://www.nieuwsmonitor.org/uploads/2017_verkiezingen.pdf).
 
 ## Verkiezingen 2012: Medialogica
 
-Medialogica speelt een belangrijke rol in de relatie tussen media en politiek. Tijdens de verkiezingen van 2012 werd de campagne gedomineerd door deze medialogica. Zie [het onderzoek](/uploads/2017_verkiezingen.pdf) dat wij toentertijd hebben uitgevoerd.
+Medialogica speelt een belangrijke rol in de relatie tussen media en politiek. Tijdens de verkiezingen van 2012 werd de campagne gedomineerd door deze medialogica. Zie [het onderzoek](/uploads/medialogica.pdf) dat wij toentertijd hebben uitgevoerd.
 
 ## Parlementaire enquetecommissie fraudebeleid en dienstverlening
 

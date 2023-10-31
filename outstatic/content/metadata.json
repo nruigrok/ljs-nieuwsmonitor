@@ -1,6 +1,6 @@
 {
-  "commit": "bf82842422ae12c84175962d86dc35a1842cbe37",
-  "generated": "2023-10-31T13:17:55.756Z",
+  "commit": "d55a617bbdfaaef8a75eacd01ce68633594a2852",
+  "generated": "2023-10-31T13:41:24.230Z",
   "metadata": [
     {
       "__outstatic": {
@@ -93,8 +93,8 @@
     },
     {
       "__outstatic": {
-        "commit": "bf82842422ae12c84175962d86dc35a1842cbe37",
-        "hash": "3625509518",
+        "commit": "d55a617bbdfaaef8a75eacd01ce68633594a2852",
+        "hash": "3983552511",
         "path": "outstatic/content/projecten/media-politiek.md"
       },
       "author": {
