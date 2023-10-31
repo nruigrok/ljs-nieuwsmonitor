@@ -1,25 +1,7 @@
 {
-  "commit": "8392a8c402021bc65ef27891738c8eb42d9d6c6e",
-  "generated": "2023-10-31T15:04:14.964Z",
+  "commit": "813c08fd352dd21fdc349f942fe53dfabdaa49e6",
+  "generated": "Tue, 31 Oct 2023 15:04:41 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "819385fa7d790b8f9b9117649bdf6c1134c7c2ef",
-        "hash": "3316301127",
-        "path": "outstatic/content/pages/contact.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": "/images/ruigrok-Y0Mj.jpg"
-      },
-      "collection": "pages",
-      "coverImage": "/images/logo-M2MT.png",
-      "description": "Neem contact op",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "contact",
-      "status": "published",
-      "title": "Contact"
-    },
     {
       "__outstatic": {
         "commit": "89557e77f789294224d3cbb63889685206878182",
@@ -40,21 +22,21 @@
     },
     {
       "__outstatic": {
-        "commit": "c67011bff076515a3901a56125a2249c9f66b010",
-        "hash": "3983552511",
-        "path": "outstatic/content/projecten/media-politiek.md"
+        "commit": "819385fa7d790b8f9b9117649bdf6c1134c7c2ef",
+        "hash": "3316301127",
+        "path": "outstatic/content/pages/contact.md"
       },
       "author": {
         "name": "Nel Ruigrok",
-        "picture": ""
+        "picture": "/images/ruigrok-Y0Mj.jpg"
       },
-      "collection": "projecten",
-      "coverImage": "/images/logo-AzOT.png",
-      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "media-politiek",
+      "collection": "pages",
+      "coverImage": "/images/logo-M2MT.png",
+      "description": "Neem contact op",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "contact",
       "status": "published",
-      "title": "Media & Politiek"
+      "title": "Contact"
     },
     {
       "__outstatic": {
@@ -73,6 +55,24 @@
       "slug": "over",
       "status": "published",
       "title": "Over"
+    },
+    {
+      "__outstatic": {
+        "commit": "8e63107c89e9aa8f61f983a44fdd4087700d129b",
+        "hash": "217511120",
+        "path": "outstatic/content/projecten/talkshows.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "projecten",
+      "coverImage": "/images/talkshows-k4Mj.png",
+      "description": "Al decennialang spelen de talkshows een belangrijke rol in Nederland. Barend & Van Dorp wordt gezien als de eerste succesvolle talkshow. Vele shows volgden, zowel op de publieke omroep als bij de commerciele omroepen. Sinds 2015 doen we onderzoek naar verschillende talkshows en hun invloed op het publieke debat. Dit doen we vooral in samenwerking met de studenten van de master Media & Journalistiek van de Erasmus Universiteit.",
+      "publishedAt": "2023-10-31T14:03:28.187Z",
+      "slug": "talkshows",
+      "status": "published",
+      "title": "Talkshows"
     },
     {
       "__outstatic": {
@@ -111,21 +111,21 @@
     },
     {
       "__outstatic": {
-        "commit": "8392a8c402021bc65ef27891738c8eb42d9d6c6e",
-        "hash": "217511120",
-        "path": "outstatic/content/projecten/talkshows.md"
+        "commit": "c67011bff076515a3901a56125a2249c9f66b010",
+        "hash": "3983552511",
+        "path": "outstatic/content/projecten/media-politiek.md"
       },
       "author": {
         "name": "Nel Ruigrok",
         "picture": ""
       },
       "collection": "projecten",
-      "coverImage": "/images/talkshows-k4Mj.png",
-      "description": "Al decennialang spelen de talkshows een belangrijke rol in Nederland. Barend & Van Dorp wordt gezien als de eerste succesvolle talkshow. Vele shows volgden, zowel op de publieke omroep als bij de commerciele omroepen. Sinds 2015 doen we onderzoek naar verschillende talkshows en hun invloed op het publieke debat. Dit doen we vooral in samenwerking met de studenten van de master Media & Journalistiek van de Erasmus Universiteit.",
-      "publishedAt": "2023-10-31T14:03:28.187Z",
-      "slug": "talkshows",
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "media-politiek",
       "status": "published",
-      "title": "Talkshows"
+      "title": "Media & Politiek"
     }
   ]
 }
