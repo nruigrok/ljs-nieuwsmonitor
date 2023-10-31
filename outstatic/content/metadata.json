@@ -1,6 +1,6 @@
 {
-  "commit": "c9ec88698126505d6be583ccc6e0f3917a8737c1",
-  "generated": "Tue, 31 Oct 2023 15:40:19 GMT",
+  "commit": "c8012282380fe94b9734ff661d4cb1e722b32559",
+  "generated": "2023-10-31T19:15:57.531Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,24 +76,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ff8ec294507255479d89257232460a6497c937a2",
-        "hash": "4126420912",
-        "path": "outstatic/content/pages/projecten.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Projecten",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "projecten",
-      "status": "published",
-      "title": "Projecten"
-    },
-    {
-      "__outstatic": {
         "commit": "8e63107c89e9aa8f61f983a44fdd4087700d129b",
         "hash": "217511120",
         "path": "outstatic/content/projecten/talkshows.md"
@@ -144,6 +126,24 @@
       "slug": "bearbnb",
       "status": "published",
       "title": "Cursus R"
+    },
+    {
+      "__outstatic": {
+        "commit": "c8012282380fe94b9734ff661d4cb1e722b32559",
+        "hash": "4120410210",
+        "path": "outstatic/content/pages/projecten.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Projecten",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "projecten",
+      "status": "published",
+      "title": "Projecten"
     }
   ]
 }
