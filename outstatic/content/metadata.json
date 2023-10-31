@@ -1,25 +1,7 @@
 {
-  "commit": "8931f9bc904992aec10ba7529b3425ee9c7c7345",
-  "generated": "2023-10-31T15:02:21.468Z",
+  "commit": "0ef94c9080d00de6b0b77a589d8ae05e7eed9be9",
+  "generated": "Tue, 31 Oct 2023 15:02:41 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "89557e77f789294224d3cbb63889685206878182",
-        "hash": "1497716472",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "/images/hero-image.png",
-      "description": "This is my blog.",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "819385fa7d790b8f9b9117649bdf6c1134c7c2ef",
@@ -40,38 +22,21 @@
     },
     {
       "__outstatic": {
-        "commit": "d58ca416153b4e6dca915c2ceba6d3ae0ebf5a81",
-        "hash": "2304778665",
-        "path": "outstatic/content/pages/over.md"
+        "commit": "89557e77f789294224d3cbb63889685206878182",
+        "hash": "1497716472",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
         "name": "Nel Ruigrok",
         "picture": ""
       },
       "collection": "pages",
-      "coverImage": "",
-      "description": "Over LJS",
+      "coverImage": "/images/hero-image.png",
+      "description": "This is my blog.",
       "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "over",
+      "slug": "home",
       "status": "published",
-      "title": "Over"
-    },
-    {
-      "__outstatic": {
-        "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
-        "hash": "1079839898",
-        "path": "outstatic/content/projecten/bearbnb.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok"
-      },
-      "collection": "projecten",
-      "coverImage": "/images/r_logo.svg-c1OD.png",
-      "description": "\"R: The data whisperer that turns numbers into insights!\"",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": "Cursus R"
+      "title": "Home"
     },
     {
       "__outstatic": {
@@ -93,6 +58,24 @@
     },
     {
       "__outstatic": {
+        "commit": "d58ca416153b4e6dca915c2ceba6d3ae0ebf5a81",
+        "hash": "2304778665",
+        "path": "outstatic/content/pages/over.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Over LJS",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "over",
+      "status": "published",
+      "title": "Over"
+    },
+    {
+      "__outstatic": {
         "commit": "ff8ec294507255479d89257232460a6497c937a2",
         "hash": "4126420912",
         "path": "outstatic/content/pages/projecten.md"
@@ -111,7 +94,24 @@
     },
     {
       "__outstatic": {
-        "commit": "8931f9bc904992aec10ba7529b3425ee9c7c7345",
+        "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
+        "hash": "1079839898",
+        "path": "outstatic/content/projecten/bearbnb.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok"
+      },
+      "collection": "projecten",
+      "coverImage": "/images/r_logo.svg-c1OD.png",
+      "description": "\"R: The data whisperer that turns numbers into insights!\"",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "bearbnb",
+      "status": "published",
+      "title": "Cursus R"
+    },
+    {
+      "__outstatic": {
+        "commit": "341c392d2c109941813d534bdc66e6d7d433c7ae",
         "hash": "4050264587",
         "path": "outstatic/content/projecten/talkshows.md"
       },
