@@ -1,6 +1,6 @@
 {
   "commit": "bf82842422ae12c84175962d86dc35a1842cbe37",
-  "generated": "2023-10-31T13:13:21.665Z",
+  "generated": "2023-10-31T13:17:55.756Z",
   "metadata": [
     {
       "__outstatic": {
@@ -94,7 +94,7 @@
     {
       "__outstatic": {
         "commit": "bf82842422ae12c84175962d86dc35a1842cbe37",
-        "hash": "2167095932",
+        "hash": "3625509518",
         "path": "outstatic/content/projecten/media-politiek.md"
       },
       "author": {
