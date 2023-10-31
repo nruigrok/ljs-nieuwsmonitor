@@ -1,6 +1,6 @@
 {
-  "commit": "172761627a9929b0eba5e2b1e8ef98fef825b5b4",
-  "generated": "2023-10-31T20:22:37.990Z",
+  "commit": "8830f599bb03c9e768b8659169df849113ebc450",
+  "generated": "2023-10-31T20:28:42.695Z",
   "metadata": [
     {
       "__outstatic": {
@@ -147,8 +147,8 @@
     },
     {
       "__outstatic": {
-        "commit": "172761627a9929b0eba5e2b1e8ef98fef825b5b4",
-        "hash": "2913025852",
+        "commit": "8830f599bb03c9e768b8659169df849113ebc450",
+        "hash": "3237603878",
         "path": "outstatic/content/projecten/media-en-rechtspraak.md"
       },
       "author": {

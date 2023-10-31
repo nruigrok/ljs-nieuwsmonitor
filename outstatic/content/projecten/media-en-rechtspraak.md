@@ -10,5 +10,7 @@ coverImage: '/images/rechtspraak-E0OT.png'
 publishedAt: '2023-10-31T20:12:37.980Z'
 ---
 
-In opdracht van de Raad voor de Rechtspraak hebben we onderzoek gedaan naar Rechtbankverslaggeving in een veranderend medialandschap. Hierbij keken we naar drie verschillende, geruchtmakende rechtszaken: Laura Dekker (het zeilmeisje), Benno L. (de zwemleraar die veroordeeld werd voor seksueel misbruik van jonge meisjes) en Saban B. (veroordeeld voor o.a. vrouwenhandel maar die tijdens een verlof om zijn pasgeboren kind te zien vlucht naar Turkije). Lees hier[ het onderzoek](https://www.nieuwsmonitor.org/uploads/RM evaluatie persrichtlijn.pdf).
+In opdracht van de Raad voor de Rechtspraak hebben we onderzoek gedaan naar Rechtbankverslaggeving in een veranderend medialandschap. Hierbij keken we naar drie verschillende, geruchtmakende rechtszaken: Laura Dekker (het zeilmeisje), Benno L. (de zwemleraar die veroordeeld werd voor seksueel misbruik van jonge meisjes) en Saban B. (veroordeeld voor o.a. vrouwenhandel maar die tijdens een verlof om zijn pasgeboren kind te zien vlucht naar Turkije). Lees hier[ het onderzoek.](https://www.nieuwsmonitor.org/uploads/RM evaluatie persrichtlijn.pdf)
+
+In opdracht van het Wetenschappelijk Onderzoeks- en Documentatie Centrum van het ministerie van Justitie en Veiligheid hebben we onderzoek gedaan naar hoe media berichten over jeugdcriminaliteit in 2007 en in 2011. Op deze [website](https://repository.wodc.nl/handle/20.500.12832/2042) is het onderzoek terug te vinden.
 
