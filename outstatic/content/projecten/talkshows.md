@@ -1,6 +1,6 @@
 ---
 title: 'Talkshows'
-status: 'draft'
+status: 'published'
 author:
   name: 'Nel Ruigrok'
   picture: ''

@@ -1,6 +1,6 @@
 {
-  "commit": "bb8a4c17446e40a896dbb2a1f4ca758c9b7954b7",
-  "generated": "Tue, 31 Oct 2023 14:18:55 GMT",
+  "commit": "642ed5acce6d370150a1e59c04403c1657a33d27",
+  "generated": "2023-10-31T14:20:10.095Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,24 +58,6 @@
     },
     {
       "__outstatic": {
-        "commit": "9342db9a97d6d8e5bf202a3ce908392239ebf0af",
-        "hash": "1333393595",
-        "path": "outstatic/content/projecten/talkshows.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "projecten",
-      "coverImage": "/images/talkshows-k4Mj.png",
-      "description": "Al decennialang spelen de talkshows een belangrijke rol in Nederland. Barend & Van Dorp wordt gezien als de eerste succesvolle talkshow. Vele shows volgden, zowel op de publieke omroep als bij de commerciele omroepen. Sinds 2015 doen we onderzoek naar verschillende talkshows en hun invloed op het publieke debat. ",
-      "publishedAt": "2023-10-31T14:03:28.187Z",
-      "slug": "talkshows",
-      "status": "draft",
-      "title": "Talkshows"
-    },
-    {
-      "__outstatic": {
         "commit": "ff8ec294507255479d89257232460a6497c937a2",
         "hash": "4126420912",
         "path": "outstatic/content/pages/projecten.md"
@@ -126,6 +108,24 @@
       "slug": "media-politiek",
       "status": "published",
       "title": "Media & Politiek"
+    },
+    {
+      "__outstatic": {
+        "commit": "642ed5acce6d370150a1e59c04403c1657a33d27",
+        "hash": "2532968662",
+        "path": "outstatic/content/projecten/talkshows.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "projecten",
+      "coverImage": "/images/talkshows-k4Mj.png",
+      "description": "Al decennialang spelen de talkshows een belangrijke rol in Nederland. Barend & Van Dorp wordt gezien als de eerste succesvolle talkshow. Vele shows volgden, zowel op de publieke omroep als bij de commerciele omroepen. Sinds 2015 doen we onderzoek naar verschillende talkshows en hun invloed op het publieke debat. ",
+      "publishedAt": "2023-10-31T14:03:28.187Z",
+      "slug": "talkshows",
+      "status": "published",
+      "title": "Talkshows"
     }
   ]
 }
