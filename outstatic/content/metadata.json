@@ -1,6 +1,6 @@
 {
   "commit": "813c08fd352dd21fdc349f942fe53dfabdaa49e6",
-  "generated": "Tue, 31 Oct 2023 15:04:41 GMT",
+  "generated": "Tue, 31 Oct 2023 15:13:32 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -40,24 +40,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d58ca416153b4e6dca915c2ceba6d3ae0ebf5a81",
-        "hash": "2304778665",
-        "path": "outstatic/content/pages/over.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Over LJS",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "over",
-      "status": "published",
-      "title": "Over"
-    },
-    {
-      "__outstatic": {
         "commit": "8e63107c89e9aa8f61f983a44fdd4087700d129b",
         "hash": "217511120",
         "path": "outstatic/content/projecten/talkshows.md"
@@ -73,6 +55,41 @@
       "slug": "talkshows",
       "status": "published",
       "title": "Talkshows"
+    },
+    {
+      "__outstatic": {
+        "commit": "c67011bff076515a3901a56125a2249c9f66b010",
+        "hash": "3983552511",
+        "path": "outstatic/content/projecten/media-politiek.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "projecten",
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "media-politiek",
+      "status": "published",
+      "title": "Media & Politiek"
+    },
+    {
+      "__outstatic": {
+        "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
+        "hash": "1079839898",
+        "path": "outstatic/content/projecten/bearbnb.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok"
+      },
+      "collection": "projecten",
+      "coverImage": "/images/r_logo.svg-c1OD.png",
+      "description": "\"R: The data whisperer that turns numbers into insights!\"",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "bearbnb",
+      "status": "published",
+      "title": "Cursus R"
     },
     {
       "__outstatic": {
@@ -94,38 +111,21 @@
     },
     {
       "__outstatic": {
-        "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
-        "hash": "1079839898",
-        "path": "outstatic/content/projecten/bearbnb.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok"
-      },
-      "collection": "projecten",
-      "coverImage": "/images/r_logo.svg-c1OD.png",
-      "description": "\"R: The data whisperer that turns numbers into insights!\"",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": "Cursus R"
-    },
-    {
-      "__outstatic": {
-        "commit": "c67011bff076515a3901a56125a2249c9f66b010",
-        "hash": "3983552511",
-        "path": "outstatic/content/projecten/media-politiek.md"
+        "commit": "d58ca416153b4e6dca915c2ceba6d3ae0ebf5a81",
+        "hash": "2304778665",
+        "path": "outstatic/content/pages/over.md"
       },
       "author": {
         "name": "Nel Ruigrok",
         "picture": ""
       },
-      "collection": "projecten",
-      "coverImage": "/images/logo-AzOT.png",
-      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "media-politiek",
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Over LJS",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "over",
       "status": "published",
-      "title": "Media & Politiek"
+      "title": "Over"
     }
   ]
 }
