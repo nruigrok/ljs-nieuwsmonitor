@@ -1,6 +1,6 @@
 {
-  "commit": "77aceeb8e46d4acedd11743fd3aadac4129346c0",
-  "generated": "2023-10-31T20:05:07.778Z",
+  "commit": "172761627a9929b0eba5e2b1e8ef98fef825b5b4",
+  "generated": "2023-10-31T20:22:37.990Z",
   "metadata": [
     {
       "__outstatic": {
@@ -144,6 +144,24 @@
       "slug": "nederlandse-nieuwsmonitor",
       "status": "published",
       "title": "Geschiedenis"
+    },
+    {
+      "__outstatic": {
+        "commit": "172761627a9929b0eba5e2b1e8ef98fef825b5b4",
+        "hash": "2913025852",
+        "path": "outstatic/content/projecten/media-en-rechtspraak.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": "https://avatars.githubusercontent.com/u/6438205?v=4"
+      },
+      "collection": "projecten",
+      "coverImage": "/images/rechtspraak-E0OT.png",
+      "description": "Media hebben een grote invloed op de maatschappij en ook waar het gaat om hoe naar criminaliteit wordt gekeken door de samenleving wordt beinvloed door media. Ditzelfde geldt voor de  rechtspraak. We hebben op dit gebied ook een aantal onderzoeken uitgevoerd.",
+      "publishedAt": "2023-10-31T20:12:37.980Z",
+      "slug": "media-en-rechtspraak",
+      "status": "published",
+      "title": "Media en Rechtspraak"
     }
   ]
 }
