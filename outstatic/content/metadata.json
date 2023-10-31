@@ -1,6 +1,6 @@
 {
-  "commit": "d614e8b1b919749634a76718a6c551c57e44d121",
-  "generated": "2023-10-31T14:22:28.141Z",
+  "commit": "8931f9bc904992aec10ba7529b3425ee9c7c7345",
+  "generated": "2023-10-31T14:34:01.635Z",
   "metadata": [
     {
       "__outstatic": {
@@ -111,8 +111,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d614e8b1b919749634a76718a6c551c57e44d121",
-        "hash": "1351375699",
+        "commit": "8931f9bc904992aec10ba7529b3425ee9c7c7345",
+        "hash": "1127634155",
         "path": "outstatic/content/projecten/talkshows.md"
       },
       "author": {
@@ -121,7 +121,7 @@
       },
       "collection": "projecten",
       "coverImage": "/images/talkshows-k4Mj.png",
-      "description": "Al decennialang spelen de talkshows een belangrijke rol in Nederland. Barend & Van Dorp wordt gezien als de eerste succesvolle talkshow. Vele shows volgden, zowel op de publieke omroep als bij de commerciele omroepen. Sinds 2015 doen we onderzoek naar verschillende talkshows en hun invloed op het publieke debat. ",
+      "description": "Al decennialang spelen de talkshows een belangrijke rol in Nederland. Barend & Van Dorp wordt gezien als de eerste succesvolle talkshow. Vele shows volgden, zowel op de publieke omroep als bij de commerciele omroepen. Sinds 2015 doen we onderzoek naar verschillende talkshows en hun invloed op het publieke debat. Dit doen we vooral in samenwerking met de studenten van de master Media & Journalistiek van de Erasmus Universiteit.",
       "publishedAt": "2023-10-31T14:03:28.187Z",
       "slug": "talkshows",
       "status": "published",
