@@ -1,6 +1,6 @@
 {
-  "commit": "abffe237605c800b751a511e2a7249216717c01e",
-  "generated": "2023-10-31T20:30:02.299Z",
+  "commit": "97ab714439104278be65036f717bd563680344fc",
+  "generated": "2023-10-31T20:31:34.035Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "contact",
       "status": "published",
       "title": "Contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "d58ca416153b4e6dca915c2ceba6d3ae0ebf5a81",
-        "hash": "2304778665",
-        "path": "outstatic/content/pages/over.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Over LJS",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "over",
-      "status": "published",
-      "title": "Over"
     },
     {
       "__outstatic": {
@@ -162,6 +144,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "97ab714439104278be65036f717bd563680344fc",
+        "hash": "2391579327",
+        "path": "outstatic/content/pages/over.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Over LJS",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "over",
+      "status": "published",
+      "title": "Over"
     }
   ]
 }
