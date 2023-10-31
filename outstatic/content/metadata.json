@@ -1,6 +1,6 @@
 {
-  "commit": "97ab714439104278be65036f717bd563680344fc",
-  "generated": "2023-10-31T20:38:09.302Z",
+  "commit": "a2b7adab6ce27a9f86b0b12e08c6774bbe972f2f",
+  "generated": "2023-10-31T20:38:47.157Z",
   "metadata": [
     {
       "__outstatic": {
@@ -147,8 +147,8 @@
     },
     {
       "__outstatic": {
-        "commit": "97ab714439104278be65036f717bd563680344fc",
-        "hash": "335521673",
+        "commit": "a2b7adab6ce27a9f86b0b12e08c6774bbe972f2f",
+        "hash": "1382679024",
         "path": "outstatic/content/pages/over.md"
       },
       "author": {
@@ -157,7 +157,7 @@
       },
       "collection": "pages",
       "coverImage": "",
-      "description": "LJS Nieuwsmonitor is een wetenschappelijk onderzoeksbureau. Wij doen  onderzoek naar de invloed van media op onze samenleving. ",
+      "description": "Over",
       "publishedAt": "2023-09-21T04:35:07.000Z",
       "slug": "over",
       "status": "published",

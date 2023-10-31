@@ -5,14 +5,12 @@ author:
   name: 'Nel Ruigrok'
   picture: ''
 slug: 'over'
-description: 'LJS Nieuwsmonitor is een wetenschappelijk onderzoeksbureau. Wij doen  onderzoek naar de invloed van media op onze samenleving. '
+description: 'Over'
 coverImage: ''
 publishedAt: '2023-09-21T04:35:07.000Z'
 ---
 
-
-
-
+LJS Nieuwsmonitor is een wetenschappelijk onderzoeksbureau. Wij doen onderzoek naar de invloed van media op onze samenleving.
 
 Daarnaast doen we veel onderzoek naar de invloed van media op de politiek, met name tijdens verkiezingscampagnes. Zie onder het project "media en politiek" een aantal voorbeelden.
 
