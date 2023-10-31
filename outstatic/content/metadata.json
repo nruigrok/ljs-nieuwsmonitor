@@ -1,24 +1,24 @@
 {
-  "commit": "0ae8128243ba11d1b1e5abc5cd801d824c069375",
-  "generated": "2023-10-31T15:39:56.309Z",
+  "commit": "c9ec88698126505d6be583ccc6e0f3917a8737c1",
+  "generated": "Tue, 31 Oct 2023 15:40:19 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "89557e77f789294224d3cbb63889685206878182",
-        "hash": "1497716472",
-        "path": "outstatic/content/pages/home.md"
+        "commit": "819385fa7d790b8f9b9117649bdf6c1134c7c2ef",
+        "hash": "3316301127",
+        "path": "outstatic/content/pages/contact.md"
       },
       "author": {
         "name": "Nel Ruigrok",
-        "picture": ""
+        "picture": "/images/ruigrok-Y0Mj.jpg"
       },
       "collection": "pages",
-      "coverImage": "/images/hero-image.png",
-      "description": "This is my blog.",
+      "coverImage": "/images/logo-M2MT.png",
+      "description": "Neem contact op",
       "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "home",
+      "slug": "contact",
       "status": "published",
-      "title": "Home"
+      "title": "Contact"
     },
     {
       "__outstatic": {
@@ -40,74 +40,39 @@
     },
     {
       "__outstatic": {
-        "commit": "819385fa7d790b8f9b9117649bdf6c1134c7c2ef",
-        "hash": "3316301127",
-        "path": "outstatic/content/pages/contact.md"
+        "commit": "89557e77f789294224d3cbb63889685206878182",
+        "hash": "1497716472",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
         "name": "Nel Ruigrok",
-        "picture": "/images/ruigrok-Y0Mj.jpg"
+        "picture": ""
       },
       "collection": "pages",
-      "coverImage": "/images/logo-M2MT.png",
-      "description": "Neem contact op",
+      "coverImage": "/images/hero-image.png",
+      "description": "This is my blog.",
       "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "contact",
+      "slug": "home",
       "status": "published",
-      "title": "Contact"
+      "title": "Home"
     },
     {
       "__outstatic": {
-        "commit": "8e63107c89e9aa8f61f983a44fdd4087700d129b",
-        "hash": "217511120",
-        "path": "outstatic/content/projecten/talkshows.md"
+        "commit": "f5658d8aae4d68337b2d3387eb9987ae07cbd07f",
+        "hash": "3176641203",
+        "path": "outstatic/content/projecten/nederlandse-nieuwsmonitor.md"
       },
       "author": {
         "name": "Nel Ruigrok",
-        "picture": ""
+        "picture": "https://avatars.githubusercontent.com/u/6438205?v=4"
       },
       "collection": "projecten",
-      "coverImage": "/images/talkshows-k4Mj.png",
-      "description": "Al decennialang spelen de talkshows een belangrijke rol in Nederland. Barend & Van Dorp wordt gezien als de eerste succesvolle talkshow. Vele shows volgden, zowel op de publieke omroep als bij de commerciele omroepen. Sinds 2015 doen we onderzoek naar verschillende talkshows en hun invloed op het publieke debat. Dit doen we vooral in samenwerking met de studenten van de master Media & Journalistiek van de Erasmus Universiteit.",
-      "publishedAt": "2023-10-31T14:03:28.187Z",
-      "slug": "talkshows",
+      "coverImage": "/images/nieuwsmonitor-c4ND.jpg",
+      "description": "LJS Nieuwsmonitor is voortgekomen uit de Nederlandse Nieuwsmonitor (DNN). Dit project, ondergebracht bij de Stichting Het Persinstituut heeft van 2005 tot en met 2013 als doel gehad: het transparant maken van het nieuwsproces voor een breed publiek. Met wetenschappelijk onderzoek heeft de Nieuwsmonitor bijgedragen aan de discussie over de kwaliteit van de  journalistiek in Nederland. Hieronder enkele publicaties uit die periode.",
+      "publishedAt": "2023-10-31T15:24:02.604Z",
+      "slug": "nederlandse-nieuwsmonitor",
       "status": "published",
-      "title": "Talkshows"
-    },
-    {
-      "__outstatic": {
-        "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
-        "hash": "1079839898",
-        "path": "outstatic/content/projecten/bearbnb.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok"
-      },
-      "collection": "projecten",
-      "coverImage": "/images/r_logo.svg-c1OD.png",
-      "description": "\"R: The data whisperer that turns numbers into insights!\"",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": "Cursus R"
-    },
-    {
-      "__outstatic": {
-        "commit": "c67011bff076515a3901a56125a2249c9f66b010",
-        "hash": "3983552511",
-        "path": "outstatic/content/projecten/media-politiek.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "projecten",
-      "coverImage": "/images/logo-AzOT.png",
-      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "media-politiek",
-      "status": "published",
-      "title": "Media & Politiek"
+      "title": "Geschiedenis"
     },
     {
       "__outstatic": {
@@ -129,21 +94,56 @@
     },
     {
       "__outstatic": {
-        "commit": "0ae8128243ba11d1b1e5abc5cd801d824c069375",
-        "hash": "3176641203",
-        "path": "outstatic/content/projecten/nederlandse-nieuwsmonitor.md"
+        "commit": "8e63107c89e9aa8f61f983a44fdd4087700d129b",
+        "hash": "217511120",
+        "path": "outstatic/content/projecten/talkshows.md"
       },
       "author": {
         "name": "Nel Ruigrok",
-        "picture": "https://avatars.githubusercontent.com/u/6438205?v=4"
+        "picture": ""
       },
       "collection": "projecten",
-      "coverImage": "/images/nieuwsmonitor-c4ND.jpg",
-      "description": "LJS Nieuwsmonitor is voortgekomen uit de Nederlandse Nieuwsmonitor (DNN). Dit project, ondergebracht bij de Stichting Het Persinstituut heeft van 2005 tot en met 2013 als doel gehad: het transparant maken van het nieuwsproces voor een breed publiek. Met wetenschappelijk onderzoek heeft de Nieuwsmonitor bijgedragen aan de discussie over de kwaliteit van de  journalistiek in Nederland. Hieronder enkele publicaties uit die periode.",
-      "publishedAt": "2023-10-31T15:24:02.604Z",
-      "slug": "nederlandse-nieuwsmonitor",
+      "coverImage": "/images/talkshows-k4Mj.png",
+      "description": "Al decennialang spelen de talkshows een belangrijke rol in Nederland. Barend & Van Dorp wordt gezien als de eerste succesvolle talkshow. Vele shows volgden, zowel op de publieke omroep als bij de commerciele omroepen. Sinds 2015 doen we onderzoek naar verschillende talkshows en hun invloed op het publieke debat. Dit doen we vooral in samenwerking met de studenten van de master Media & Journalistiek van de Erasmus Universiteit.",
+      "publishedAt": "2023-10-31T14:03:28.187Z",
+      "slug": "talkshows",
       "status": "published",
-      "title": "Geschiedenis"
+      "title": "Talkshows"
+    },
+    {
+      "__outstatic": {
+        "commit": "c67011bff076515a3901a56125a2249c9f66b010",
+        "hash": "3983552511",
+        "path": "outstatic/content/projecten/media-politiek.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "projecten",
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "media-politiek",
+      "status": "published",
+      "title": "Media & Politiek"
+    },
+    {
+      "__outstatic": {
+        "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
+        "hash": "1079839898",
+        "path": "outstatic/content/projecten/bearbnb.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok"
+      },
+      "collection": "projecten",
+      "coverImage": "/images/r_logo.svg-c1OD.png",
+      "description": "\"R: The data whisperer that turns numbers into insights!\"",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "bearbnb",
+      "status": "published",
+      "title": "Cursus R"
     }
   ]
 }
