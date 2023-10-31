@@ -1,6 +1,6 @@
 {
   "commit": "0ae8128243ba11d1b1e5abc5cd801d824c069375",
-  "generated": "2023-10-31T15:37:43.934Z",
+  "generated": "2023-10-31T15:39:56.309Z",
   "metadata": [
     {
       "__outstatic": {
@@ -130,7 +130,7 @@
     {
       "__outstatic": {
         "commit": "0ae8128243ba11d1b1e5abc5cd801d824c069375",
-        "hash": "2459060865",
+        "hash": "3176641203",
         "path": "outstatic/content/projecten/nederlandse-nieuwsmonitor.md"
       },
       "author": {
