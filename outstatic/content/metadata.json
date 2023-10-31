@@ -1,6 +1,6 @@
 {
-  "commit": "0ef94c9080d00de6b0b77a589d8ae05e7eed9be9",
-  "generated": "Tue, 31 Oct 2023 15:02:41 GMT",
+  "commit": "8392a8c402021bc65ef27891738c8eb42d9d6c6e",
+  "generated": "2023-10-31T15:04:14.964Z",
   "metadata": [
     {
       "__outstatic": {
@@ -111,8 +111,8 @@
     },
     {
       "__outstatic": {
-        "commit": "341c392d2c109941813d534bdc66e6d7d433c7ae",
-        "hash": "4050264587",
+        "commit": "8392a8c402021bc65ef27891738c8eb42d9d6c6e",
+        "hash": "217511120",
         "path": "outstatic/content/projecten/talkshows.md"
       },
       "author": {
