@@ -12,9 +12,15 @@ publishedAt: '2023-09-21T17:55:40.000Z'
 
 Een groot deel van ons onderzoek is gericht op de relatie tussen media en politiek. Met de komende Tweede Kamerverkiezingen van 22 november a.s. zullen media wederom een belangrijke rol spelen, al zullen zij die zelf vooral bagateliseren. Zie bijvoorbeeld het [item](https://op1npo.nl/2023/09/07/jeroen-pauw-en-rick-nieman-over-het-ideale-tv-debat/) op Op1 van 7 september 2023.
 
+## Verkiezingen 2023
+
+Tijdens de verkiezingscampagne zijn we betrokken bij het onderzoek dat wordt gedaan door de Vrije Universiteit, afdeling Politieke Communicatie. We kijken bijvoorbeeld naar de verschillende TV debatten. Zie hier een artikel in Trouw waarin we een aantal tips voor een goed [verkiezingsdebat bespreken](https://www.trouw.nl/cultuur-media/zijn-er-nieuwe-spelregels-nodig-voor-de-verbale-bokspartij-van-het-verkiezingsdebat~be153e37/).
+
+Zie hier de bespreking van het College Tour debat aan de tafel bij [Op1](https://www.npostart.nl/thomas-van-groningen-arendo-joustra-en-nel-ruigrok-over-de-zin-en-onzin-van-het-televisiedebat/23-10-2023/POMS_EO_20083240).
+
 ## Opiniestuk
 
-Zie hier het opiniestuk over de relatie tussen media en politiek dat op zaterdag 23 september 2023 is gepubliceerd in Trouw.
+Zie hier het [opiniestuk](https://www.trouw.nl/opinie/waar-komt-dat-gevoel-in-het-land-waarover-henk-kamp-sprak-eigenlijk-vandaan~b3eb9a91/) over de relatie tussen media en politiek dat op zaterdag 23 september 2023 is gepubliceerd in Trouw.
 
 ## Medialogica
 

@@ -1,6 +1,6 @@
 {
-  "commit": "c21b55b2dee7079a26b3dcac1c38191122a80a37",
-  "generated": "Thu, 21 Sep 2023 20:21:21 GMT",
+  "commit": "bf82842422ae12c84175962d86dc35a1842cbe37",
+  "generated": "2023-10-31T13:13:21.665Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,24 +58,6 @@
     },
     {
       "__outstatic": {
-        "commit": "9c9baee7eae057e1ad9021bed16dbb998c06b6a1",
-        "hash": "1918308124",
-        "path": "outstatic/content/projecten/media-politiek.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "projecten",
-      "coverImage": "/images/logo-AzOT.png",
-      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "media-politiek",
-      "status": "published",
-      "title": "Media & Politiek"
-    },
-    {
-      "__outstatic": {
         "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
         "hash": "1079839898",
         "path": "outstatic/content/projecten/bearbnb.md"
@@ -108,6 +90,24 @@
       "slug": "projecten",
       "status": "published",
       "title": "Projecten"
+    },
+    {
+      "__outstatic": {
+        "commit": "bf82842422ae12c84175962d86dc35a1842cbe37",
+        "hash": "2167095932",
+        "path": "outstatic/content/projecten/media-politiek.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "projecten",
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "media-politiek",
+      "status": "published",
+      "title": "Media & Politiek"
     }
   ]
 }
