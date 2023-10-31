@@ -16,5 +16,5 @@ publishedAt: '2023-09-21T04:35:07.000Z'
 
 Media-analyses op maat.
 
-(De website wordt nog gebouwd, vandaar slechts weinig informatie. Voor vragen kunt u altijd mailen naar: nelruigrok@nieuwsmonitor.org)
+
 

@@ -1,6 +1,6 @@
 {
-  "commit": "31638002b83bae2cf0f3e49b40b347f53104c248",
-  "generated": "Tue, 31 Oct 2023 20:28:57 GMT",
+  "commit": "abffe237605c800b751a511e2a7249216717c01e",
+  "generated": "2023-10-31T20:30:02.299Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "over",
       "status": "published",
       "title": "Over"
-    },
-    {
-      "__outstatic": {
-        "commit": "89557e77f789294224d3cbb63889685206878182",
-        "hash": "1497716472",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "/images/hero-image.png",
-      "description": "This is my blog.",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
     },
     {
       "__outstatic": {
@@ -162,6 +144,24 @@
       "slug": "bearbnb",
       "status": "published",
       "title": "Cursus R"
+    },
+    {
+      "__outstatic": {
+        "commit": "abffe237605c800b751a511e2a7249216717c01e",
+        "hash": "2516165496",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "/images/hero-image.png",
+      "description": "This is my blog.",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
