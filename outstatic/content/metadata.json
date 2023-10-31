@@ -1,6 +1,6 @@
 {
-  "commit": "642ed5acce6d370150a1e59c04403c1657a33d27",
-  "generated": "2023-10-31T14:20:10.095Z",
+  "commit": "8b9903421a770f6d0c84d5428d620024526d3ffc",
+  "generated": "Tue, 31 Oct 2023 14:20:32 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -58,24 +58,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ff8ec294507255479d89257232460a6497c937a2",
-        "hash": "4126420912",
-        "path": "outstatic/content/pages/projecten.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Projecten",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "projecten",
-      "status": "published",
-      "title": "Projecten"
-    },
-    {
-      "__outstatic": {
         "commit": "a6149d17f21f101e962a03b3dd5b189f1633c1ca",
         "hash": "1079839898",
         "path": "outstatic/content/projecten/bearbnb.md"
@@ -111,7 +93,7 @@
     },
     {
       "__outstatic": {
-        "commit": "642ed5acce6d370150a1e59c04403c1657a33d27",
+        "commit": "c90c005dc53b851c942756e0b5bdada055a9d646",
         "hash": "2532968662",
         "path": "outstatic/content/projecten/talkshows.md"
       },
@@ -126,6 +108,24 @@
       "slug": "talkshows",
       "status": "published",
       "title": "Talkshows"
+    },
+    {
+      "__outstatic": {
+        "commit": "ff8ec294507255479d89257232460a6497c937a2",
+        "hash": "4126420912",
+        "path": "outstatic/content/pages/projecten.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Projecten",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "projecten",
+      "status": "published",
+      "title": "Projecten"
     }
   ]
 }
