@@ -1,6 +1,6 @@
 {
-  "commit": "d55a617bbdfaaef8a75eacd01ce68633594a2852",
-  "generated": "2023-10-31T13:41:24.230Z",
+  "commit": "f0269775d2abbd8fb3b013832e86a65e9bd32053",
+  "generated": "Tue, 31 Oct 2023 13:43:23 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -22,24 +22,6 @@
     },
     {
       "__outstatic": {
-        "commit": "89557e77f789294224d3cbb63889685206878182",
-        "hash": "1497716472",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "/images/hero-image.png",
-      "description": "This is my blog.",
-      "publishedAt": "2023-09-21T04:35:07.000Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "d58ca416153b4e6dca915c2ceba6d3ae0ebf5a81",
         "hash": "2304778665",
         "path": "outstatic/content/pages/over.md"
@@ -55,6 +37,24 @@
       "slug": "over",
       "status": "published",
       "title": "Over"
+    },
+    {
+      "__outstatic": {
+        "commit": "c67011bff076515a3901a56125a2249c9f66b010",
+        "hash": "3983552511",
+        "path": "outstatic/content/projecten/media-politiek.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "projecten",
+      "coverImage": "/images/logo-AzOT.png",
+      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
+      "publishedAt": "2023-09-21T17:55:40.000Z",
+      "slug": "media-politiek",
+      "status": "published",
+      "title": "Media & Politiek"
     },
     {
       "__outstatic": {
@@ -75,6 +75,24 @@
     },
     {
       "__outstatic": {
+        "commit": "89557e77f789294224d3cbb63889685206878182",
+        "hash": "1497716472",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "/images/hero-image.png",
+      "description": "This is my blog.",
+      "publishedAt": "2023-09-21T04:35:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
+    {
+      "__outstatic": {
         "commit": "ff8ec294507255479d89257232460a6497c937a2",
         "hash": "4126420912",
         "path": "outstatic/content/pages/projecten.md"
@@ -90,24 +108,6 @@
       "slug": "projecten",
       "status": "published",
       "title": "Projecten"
-    },
-    {
-      "__outstatic": {
-        "commit": "d55a617bbdfaaef8a75eacd01ce68633594a2852",
-        "hash": "3983552511",
-        "path": "outstatic/content/projecten/media-politiek.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": ""
-      },
-      "collection": "projecten",
-      "coverImage": "/images/logo-AzOT.png",
-      "description": "De relatie tussen politiek en media is als een tango: men kan niet zonder elkaar maar er is ook altijd spanning tussen beide deelnemers en het is niet altijd duidelijk wie de dans leidt.",
-      "publishedAt": "2023-09-21T17:55:40.000Z",
-      "slug": "media-politiek",
-      "status": "published",
-      "title": "Media & Politiek"
     }
   ]
 }
