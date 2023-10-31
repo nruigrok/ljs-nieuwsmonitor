@@ -10,7 +10,13 @@ description: 'LJS Nieuwsmonitor is voortgekomen uit de Nederlandse Nieuwsmonitor
 publishedAt: '2023-10-31T15:24:02.604Z'
 ---
 
-DSB in het nieuws
 
 
+Het eerste grote onderzoek van de Nederlandse Nieuwsmonitor ging over de rol van de media tijdens de affaire [‘Mabel Wisse Smit’](https://www.nieuwsmonitor.org/uploads/media_en_mabel.pdf). Een affaire met een ‘unieke afloop’: niet eerder werd een aangekondigd voornemen om een toestemmingswet voor een prinselijk huwelijk in te dienen, ingetrokken.
+
+Zie hier een verslag van het onderzoek naar de rol tijdens de affaire rondom de [DSB bank](https://www.nieuwsmonitor.org/uploads/DSB samenvattingenconclusies.pdf).
+
+Een groot aantal onderzoeken hebben we kunnen financieren met behulp van subsidie van het Stimuleringsfonds voor de Journalistiek. Zo hebben we gekeken naar de mate waarin 'clicks' op de website ook invloed hebben gehad op de onderwerpkeuzes in de papieren krant. Zie hier [het onderzoek](https://www.nieuwsmonitor.org/uploads/Seksmoord op Horrorvakantie.pdf).
+
+In opdracht van NRC Handelsblad hebben we onderzoek gedaan naar de inhoud van de columns van[ Youp van het Hek](https://www.nieuwsmonitor.org/uploads/youp2912.pdf).
 

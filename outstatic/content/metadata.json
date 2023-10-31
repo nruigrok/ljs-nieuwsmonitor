@@ -1,6 +1,6 @@
 {
-  "commit": "c8012282380fe94b9734ff661d4cb1e722b32559",
-  "generated": "2023-10-31T19:15:57.531Z",
+  "commit": "77aceeb8e46d4acedd11743fd3aadac4129346c0",
+  "generated": "2023-10-31T20:05:07.778Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,24 +55,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "f5658d8aae4d68337b2d3387eb9987ae07cbd07f",
-        "hash": "3176641203",
-        "path": "outstatic/content/projecten/nederlandse-nieuwsmonitor.md"
-      },
-      "author": {
-        "name": "Nel Ruigrok",
-        "picture": "https://avatars.githubusercontent.com/u/6438205?v=4"
-      },
-      "collection": "projecten",
-      "coverImage": "/images/nieuwsmonitor-c4ND.jpg",
-      "description": "LJS Nieuwsmonitor is voortgekomen uit de Nederlandse Nieuwsmonitor (DNN). Dit project, ondergebracht bij de Stichting Het Persinstituut heeft van 2005 tot en met 2013 als doel gehad: het transparant maken van het nieuwsproces voor een breed publiek. Met wetenschappelijk onderzoek heeft de Nieuwsmonitor bijgedragen aan de discussie over de kwaliteit van de  journalistiek in Nederland. Hieronder enkele publicaties uit die periode.",
-      "publishedAt": "2023-10-31T15:24:02.604Z",
-      "slug": "nederlandse-nieuwsmonitor",
-      "status": "published",
-      "title": "Geschiedenis"
     },
     {
       "__outstatic": {
@@ -144,6 +126,24 @@
       "slug": "projecten",
       "status": "published",
       "title": "Projecten"
+    },
+    {
+      "__outstatic": {
+        "commit": "77aceeb8e46d4acedd11743fd3aadac4129346c0",
+        "hash": "3807592116",
+        "path": "outstatic/content/projecten/nederlandse-nieuwsmonitor.md"
+      },
+      "author": {
+        "name": "Nel Ruigrok",
+        "picture": "https://avatars.githubusercontent.com/u/6438205?v=4"
+      },
+      "collection": "projecten",
+      "coverImage": "/images/nieuwsmonitor-c4ND.jpg",
+      "description": "LJS Nieuwsmonitor is voortgekomen uit de Nederlandse Nieuwsmonitor (DNN). Dit project, ondergebracht bij de Stichting Het Persinstituut heeft van 2005 tot en met 2013 als doel gehad: het transparant maken van het nieuwsproces voor een breed publiek. Met wetenschappelijk onderzoek heeft de Nieuwsmonitor bijgedragen aan de discussie over de kwaliteit van de  journalistiek in Nederland. Hieronder enkele publicaties uit die periode.",
+      "publishedAt": "2023-10-31T15:24:02.604Z",
+      "slug": "nederlandse-nieuwsmonitor",
+      "status": "published",
+      "title": "Geschiedenis"
     }
   ]
 }
